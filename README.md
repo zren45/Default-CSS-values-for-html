@@ -1,4 +1,4 @@
-# Default-CSS-values-for-html
+# Default CSS values for html
 [HTML.CSS](./html.css)
 
 default CSS Chrome browser values for all HTML elements.
